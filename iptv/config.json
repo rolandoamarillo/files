@@ -1,0 +1,134 @@
+[
+    {
+      "name": "En Vivo - Colombia",
+      "samples": [
+        {
+          "name": "Caracol",
+          "uri": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8",
+          "imageUri": "https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg"
+        },
+        {
+          "name": "RCN",
+          "uri": "https://rcnhd.cdn.net.co/live01/rcnhd.m3u8",
+          "imageUri": "https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png"
+        },
+        {
+          "name": "Canal TRO",
+          "uri": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
+          "imageUri": "https://www.canaltro.com/wp-content/uploads/2020/01/logo-canaltro-blanco-2020-300x300.png",
+          "headers": [
+            {
+              "key": "Referer",
+              "value": "https://player.cdnmedia.tv/embed/4fe9a81f"
+            }
+          ]
+        },
+        {
+          "name": "Canal Uno",
+          "uri": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"
+        },
+        {
+          "name": "Canal Capital",
+          "uri": "https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8",
+          "imageUri": "https://www.canalcapital.gov.co/sites/default/files/logo-canal-2020b.png"
+        },
+        {
+          "name": "Red+",
+          "uri": "http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8"
+        },
+        {
+          "name": "Señal Colombia",
+          "uri": "https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/024/playlist.m3u8"
+        },
+        {
+          "name": "Canal Institucional",
+          "uri": "https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/023/playlist.m3u8"
+        },
+        {
+          "name": "NTN24",
+          "uri": "https://rcnhd.cdn.net.co/live04/ntn24.m3u8"
+        },
+        {
+          "name": "Zoom TV",
+          "uri": "https://www.dailymotion.com/cdn/live/video/x7h3q6b.m3u8?sec=4uehLf_M9Ze89sicGpUPQLP_4uX3vMa9jybITcf0OTTFMKRgMWsGsRYRZ8YA7RGOQYQcNaXsvGpHnd5pLNX7tw"
+        },
+        {
+          "name": "Canal Trece",
+          "uri": "https://liveingesta118.cdnmedia.tv//canaltrecelive/smil:live.smil/playlist.m3u8",
+          "headers": [
+            {
+              "key": "Referer",
+              "value": "https://player.cdnmedia.tv/embed/4fe9a81f"
+            }
+          ]
+        },
+        {
+          "name": "Telepacífico",
+          "uri": "https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8"
+        },
+        {
+          "name": "Teleislas",
+          "uri": "https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w2120995857.m3u8"
+        },
+        {
+          "name": "Teleamiga",
+          "uri": "https://player-api.new.livestream.com/accounts/18971084/events/6841479/broadcasts/202198676.secure.m3u8"
+        },
+        {
+          "name": "NTV",
+          "uri": "https://5c21f7ec1999d.streamlock.net/8038/8038/playlist.m3u8"
+        },
+        {
+          "name": "Cosmovision",
+          "uri": "https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8"
+        },
+        {
+          "name": "Telemedellin",
+          "uri": "https://player-api.new.livestream.com/accounts/4608897/events/7111788/broadcasts/202494466.secure.m3u8"
+        },
+        {
+          "name": "CaliTV",
+          "uri": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8"
+        },
+        {
+          "name": "Telesur",
+          "uri": "https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8"
+        },
+        {
+          "name": "Canal 2",
+          "uri": "https://5c21f7ec1999d.streamlock.net/8066/8066/playlist.m3u8"
+        },
+        {
+          "name": "Teleantioquia",
+          "uri": "https://player-api.new.livestream.com/accounts/9427524/events/8926151/broadcasts/202505904.secure.m3u8"
+        },
+        {
+          "name": "Canal Doce",
+          "uri": "https://player-api.new.livestream.com/accounts/27724665/events/8376416/broadcasts/202506062.secure.m3u8"
+        },
+        {
+          "name": "Televid",
+          "uri": "https://player-api.new.livestream.com/accounts/28238881/events/8574038/broadcasts/202493541.secure.m3u8"
+        },
+        {
+          "name": "Telecafé",
+          "uri": "https://player-api.new.livestream.com/accounts/1015476/events/7158511/broadcasts/202508828.secure.m3u8"
+        },
+        {
+          "name": "CNC Tuluá",
+          "uri": "https://5c21f7ec1999d.streamlock.net/8152/8152/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Peliculas",
+      "samples": [
+        {
+          "name": "Elysium",
+          "uri": "https://dl.dropbox.com/s/rfxlxf1qq8nv6vs/Elysium%20%282013%29.mkv",
+          "imageUri": "https://m.media-amazon.com/images/M/MV5BNDc2NjU0MTcwNV5BMl5BanBnXkFtZTcwMjg4MDg2OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        }
+      ]
+    }
+  ]
+  
