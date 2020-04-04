@@ -1,6 +1,6 @@
 {
     "newVersion": "0.0.1",
-    "apkUrl": "",
+    "apkUrl": "https://rolandoamarillo.github.io/files/iptv/config.json",
     "versionNotes": [
       "- Adding configuration for updates"
     ]
