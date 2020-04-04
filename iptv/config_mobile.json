@@ -1,6 +1,6 @@
 {
-    "newVersion": "0.0.2",
-    "apkUrl": "https://rolandoamarillo.github.io/files/iptv/mobile.apk",
+    "newVersion": "0.0.1",
+    "apkUrl": "",
     "versionNotes": [
       "- Adding configuration for updates"
     ]
