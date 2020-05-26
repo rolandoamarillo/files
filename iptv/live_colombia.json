@@ -5,109 +5,97 @@
       {
         "name": "Caracol",
         "uri": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8",
-        "imageUri": "https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg",
+        "imageUri": "images/caracol.jpg",
         "isLive": true
       },
       {
         "name": "RCN",
         "uri": "https://rcnhd.cdn.net.co/live01/rcnhd.m3u8",
-        "imageUri": "https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png",
+        "imageUri": "images/rcn.png",
         "isLive": true
       },
       {
         "name": "Canal Uno",
         "uri": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
-        "imageUri": "https://img.onesignal.com/permanent/a3430be6-4ee5-4c7c-a1ff-d40b271f1c32.png",
+        "imageUri": "images/canaluno.png",
         "isLive": true
       },
       {
         "name": "Canal Capital",
         "uri": "https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8",
-        "imageUri": "https://www.canalcapital.gov.co/sites/default/files/logo-canal-2020b.png",
+        "imageUri": "images/canalcapital.png",
         "isLive": true
       },
       {
         "name": "Red+",
         "uri": "http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8",
-        "imageUri": "http://www.redmas.com.co/wp-content/uploads/2019/08/logoredmas2.jpg",
+        "imageUri": "images/red+.png",
         "isLive": true
       },
       {
         "name": "Señal Colombia",
         "uri": "https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/024/playlist.m3u8",
-        "imageUri": "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png",
+        "imageUri": "images/señalcolombia.png",
         "isLive": true
       },
       {
         "name": "Canal Institucional",
         "uri": "https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/023/playlist.m3u8",
-        "imageUri": "https://s3.amazonaws.com/rtvc-assets-canalinstitucional.tv/s3fs-public/logo-canal-institucional.png",
+        "imageUri": "images/canalinstitucional.png",
         "isLive": true
       },
       {
         "name": "NTN24",
         "uri": "https://rcnhd.cdn.net.co/live04/ntn24.m3u8",
-        "imageUri": "https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png",
+        "imageUri": "images/ntn24.png",
         "isLive": true
       },
       {
         "name": "Zoom TV",
         "uri": "https://www.dailymotion.com/cdn/live/video/x7h3q6b.m3u8?sec=4uehLf_M9Ze89sicGpUPQL_ath8r-QMwSu12hCi-TGLD7vJHMlA0ejw6QPNy1E162Ev8ZXVczAauhxX76k8fYw",
-        "imageUri": "https://www.zoomcanal.com.co/templates/rt_callisto/custom/images/logos/zoom/ZOOM%20SOLO%20+%20PNG.png",
+        "imageUri": "images/zoom.png",
         "isLive": true
       },
       {
         "name": "Telepacífico",
         "uri": "https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
-        "imageUri": "https://telepacifico.com/dev/wp-content/uploads/2016/12/logo.png",
+        "imageUri": "images/telepacifico.png",
         "isLive": true
       },
       {
         "name": "Teleislas",
         "uri": "https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w2120995857.m3u8",
-        "imageUri": "https://www.teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo-768x219.png",
+        "imageUri": "images/teleislas.png",
         "isLive": true
       },
       {
         "name": "Teleamiga",
         "uri": "https://player-api.new.livestream.com/accounts/18971084/events/6841479/broadcasts/202198676.secure.m3u8",
-        "imageUri": "https://teleamiga.tv/sites/default/files/logo2.png",
-        "isLive": true
-      },
-      {
-        "name": "NTV",
-        "uri": "https://5c21f7ec1999d.streamlock.net/8038/8038/playlist.m3u8",
-        "imageUri": "http://www.ntv.com.co/wp-content/uploads/2018/02/ntv-blanco.png",
+        "imageUri": "images/teleamiga.png",
         "isLive": true
       },
       {
         "name": "Cosmovision",
         "uri": "https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8",
-        "imageUri": "https://www.cosmovision.tv/wp-content/themes/cosmo-tv/img/logo-cosmovision.png",
+        "imageUri": "images/cosmovision.png",
         "isLive": true
       },
       {
         "name": "CaliTV",
         "uri": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8",
-        "imageUri": "https://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png",
-        "isLive": true
-      },
-      {
-        "name": "Telesur",
-        "uri": "https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8",
-        "imageUri": "https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",
+        "imageUri": "images/calitv.png",
         "isLive": true
       },
       {
         "name": "Canal 2",
         "uri": "https://5c21f7ec1999d.streamlock.net/8066/8066/playlist.m3u8",
-        "imageUri": "https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png",
+        "imageUri": "images/canal2.png",
         "isLive": true
       },
       {
         "name": "CNC Tuluá",
         "uri": "https://5c21f7ec1999d.streamlock.net/8152/8152/playlist.m3u8",
-        "imageUri": "https://cnctulua.tv/wp-content/uploads/2019/07/descarga.jpeg",
+        "imageUri": "images/cnctulua.jpeg",
         "isLive": true
       }
     ]
