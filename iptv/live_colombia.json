@@ -2,7 +2,7 @@
 		"name": "Colombia",
 		"samples": [{
 				"name": "Caracol",
-				"uri": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8",
+				"uri": "https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream-dai/574463697b9817cf0886fc17/705b22409a374c9a8e2a845924af6af6/f624fec49dadc88894ebeff1d974eab019af7757/session/3717c13c-367a-4cfb-9684-c64738e9c035/media.m3u8",
 				"imageUri": "images/caracol.jpg",
 				"isLive": true
 			},
