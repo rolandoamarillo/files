@@ -108,6 +108,12 @@
 					"isLive": true
 			},
 			{
+					"name": "Washing Hands Test",
+					"uri": "https://d1ysu0st29v2i4.cloudfront.net/330c8778-3ea9-4b29-9694-9f82572c9b60/hls/Hand+Washing+-+34091.m3u8",
+					"imageUri": "images/test.png",
+					"isLive": true
+			},
+			{
 				"name": "Test Advanced stream",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
 				"imageUri": "images/test.png",
