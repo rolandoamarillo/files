@@ -131,19 +131,19 @@
 		"name": "Apple Example Streams",
 		"samples": [
 			{
-				"name": "Advanced (fMP4)",
+				"name": "Adv (fMP4)",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
 			},
 			{
-				"name": "Advanced (TS)",
+				"name": "Adv (TS)",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
 			},
 			{
-				"name": "Advanced (HEVC/H.264)",
+				"name": "Adv (HEVC/H.264)",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
