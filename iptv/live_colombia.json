@@ -1,11 +1,6 @@
 [{
 		"name": "Colombia",
-		"samples": [{
-				"name": "Caracol",
-				"uri": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8",
-				"imageUri": "images/caracol.jpg",
-				"isLive": true
-			},
+		"samples": [
 			{
 				"name": "RCN",
 				"uri": "https://rcnhd.cdn.net.co/live01/rcnhd.m3u8",
