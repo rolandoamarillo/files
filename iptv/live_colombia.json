@@ -131,31 +131,31 @@
 		"name": "Apple Example Streams",
 		"samples": [
 			{
-				"name": "Advanced stream (fMP4)",
+				"name": "Advanced (fMP4)",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
 			},
 			{
-				"name": "Advanced stream (TS)",
+				"name": "Advanced (TS)",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
 			},
 			{
-				"name": "Advanced stream (HEVC/H.264)",
+				"name": "Advanced (HEVC/H.264)",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
 			},
 			{
-				"name": "Basic stream 4x3",
+				"name": "Basic 4x3",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
 			},
 			{
-				"name": "Basic stream 16x9",
+				"name": "Basic 16x9",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
