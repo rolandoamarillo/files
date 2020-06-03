@@ -109,6 +109,12 @@
 					"isLive": true
 			},
 			{
+				"name": "JW Player Test Stream",
+				"uri": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+				"imageUri": "images/test.png",
+				"isLive": false
+			},
+			{
 				"name": "Apple TS media playlist",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8",
 				"imageUri": "images/test.png",
