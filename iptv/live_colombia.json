@@ -132,20 +132,8 @@
 		"name": "Apple Example Streams",
 		"samples": [
 			{
-				"name": "Adv (fMP4)",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
 				"name": "Adv (TS)",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "Adv (HEVC/H.264)",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
 			},
@@ -164,69 +152,10 @@
 		]
 	},
 	{
-		"name": "Apple Adv(fMP4)",
-		"samples": [
-			{
-				"name": "1",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v1/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "480x270x30FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v2/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "640x360x30FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v3/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "768x432x30FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v4/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "960x540x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v5/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "1280x720x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v6/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "1920x1080x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v7/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "1920x1080x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v8/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "1920x1080x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/v9/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			}
-		]
-	},
-	{
 		"name": "Apple Adv(TS)",
 		"samples": [
 			{
-				"name": "1",
+				"name": "480x270x30FPS",
 				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v1/prog_index.m3u8",
 				"imageUri": "images/test.png",
 				"isLive": true
