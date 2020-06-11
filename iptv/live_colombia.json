@@ -21,7 +21,7 @@
 		},
 		{
 			"name": "Red+",
-			"uri": "http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8",
+			"uri": "https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8",
 			"imageUri": "images/red+.png",
 			"isLive": true
 		},
