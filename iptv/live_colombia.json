@@ -2,12 +2,6 @@
 	"name": "Colombia",
 	"samples": [
 		{
-			"name": "RCN",
-			"uri": "https://rcnhd.cdn.net.co/live01/rcnhd.m3u8",
-			"imageUri": "images/rcn.png",
-			"isLive": true
-		},
-		{
 			"name": "Canal Uno",
 			"uri": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
 			"imageUri": "images/canaluno.png",
@@ -38,18 +32,6 @@
 			"isLive": true
 		},
 		{
-			"name": "NTN24",
-			"uri": "https://rcnhd.cdn.net.co/live04/ntn24.m3u8",
-			"imageUri": "images/ntn24.png",
-			"isLive": true
-		},
-		{
-			"name": "Zoom TV",
-			"uri": "https://www.dailymotion.com/cdn/live/video/x7h3q6b.m3u8?sec=4uehLf_M9Ze89sicGpUPQL_ath8r-QMwSu12hCi-TGLD7vJHMlA0ejw6QPNy1E162Ev8ZXVczAauhxX76k8fYw",
-			"imageUri": "images/zoom.png",
-			"isLive": true
-		},
-		{
 			"name": "Telepacífico",
 			"uri": "https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
 			"imageUri": "images/telepacifico.png",
@@ -62,12 +44,6 @@
 			"isLive": true
 		},
 		{
-			"name": "Teleamiga",
-			"uri": "https://player-api.new.livestream.com/accounts/18971084/events/6841479/broadcasts/202198676.secure.m3u8",
-			"imageUri": "images/teleamiga.png",
-			"isLive": true
-		},
-		{
 			"name": "Cosmovision",
 			"uri": "https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8",
 			"imageUri": "images/cosmovision.png",
@@ -77,18 +53,6 @@
 			"name": "CaliTV",
 			"uri": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8",
 			"imageUri": "images/calitv.png",
-			"isLive": true
-		},
-		{
-			"name": "Canal 2",
-			"uri": "https://5c21f7ec1999d.streamlock.net/8066/8066/playlist.m3u8",
-			"imageUri": "images/canal2.png",
-			"isLive": true
-		},
-		{
-			"name": "CNC Tuluá",
-			"uri": "https://5c21f7ec1999d.streamlock.net/8152/8152/playlist.m3u8",
-			"imageUri": "images/cnctulua.jpeg",
 			"isLive": true
 		}
 	]
