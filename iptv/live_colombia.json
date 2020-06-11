@@ -116,7 +116,7 @@
 		},
 		{
 			"name": "Animation Stream",
-			"uri": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+			"uri": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
 			"imageUri": "images/test.png",
 			"isLive": false
 		},
