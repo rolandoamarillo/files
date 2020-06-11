@@ -1,213 +1,255 @@
 [{
-		"name": "Colombia",
-		"samples": [
-			{
-				"name": "RCN",
-				"uri": "https://rcnhd.cdn.net.co/live01/rcnhd.m3u8",
-				"imageUri": "images/rcn.png",
-				"isLive": true
-			},
-			{
-				"name": "Canal Uno",
-				"uri": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
-				"imageUri": "images/canaluno.png",
-				"isLive": true
-			},
-			{
-				"name": "Canal Capital",
-				"uri": "https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8",
-				"imageUri": "images/canalcapital.png",
-				"isLive": true
-			},
-			{
-				"name": "Red+",
-				"uri": "http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8",
-				"imageUri": "images/red+.png",
-				"isLive": true
-			},
-			{
-				"name": "Señal Colombia",
-				"uri": "https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/024/playlist.m3u8",
-				"imageUri": "images/señalcolombia.png",
-				"isLive": true
-			},
-			{
-				"name": "Canal Institucional",
-				"uri": "https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/023/playlist.m3u8",
-				"imageUri": "images/canalinstitucional.png",
-				"isLive": true
-			},
-			{
-				"name": "NTN24",
-				"uri": "https://rcnhd.cdn.net.co/live04/ntn24.m3u8",
-				"imageUri": "images/ntn24.png",
-				"isLive": true
-			},
-			{
-				"name": "Zoom TV",
-				"uri": "https://www.dailymotion.com/cdn/live/video/x7h3q6b.m3u8?sec=4uehLf_M9Ze89sicGpUPQL_ath8r-QMwSu12hCi-TGLD7vJHMlA0ejw6QPNy1E162Ev8ZXVczAauhxX76k8fYw",
-				"imageUri": "images/zoom.png",
-				"isLive": true
-			},
-			{
-				"name": "Telepacífico",
-				"uri": "https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
-				"imageUri": "images/telepacifico.png",
-				"isLive": true
-			},
-			{
-				"name": "Teleislas",
-				"uri": "https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w2120995857.m3u8",
-				"imageUri": "images/teleislas.png",
-				"isLive": true
-			},
-			{
-				"name": "Teleamiga",
-				"uri": "https://player-api.new.livestream.com/accounts/18971084/events/6841479/broadcasts/202198676.secure.m3u8",
-				"imageUri": "images/teleamiga.png",
-				"isLive": true
-			},
-			{
-				"name": "Cosmovision",
-				"uri": "https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8",
-				"imageUri": "images/cosmovision.png",
-				"isLive": true
-			},
-			{
-				"name": "CaliTV",
-				"uri": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8",
-				"imageUri": "images/calitv.png",
-				"isLive": true
-			},
-			{
-				"name": "Canal 2",
-				"uri": "https://5c21f7ec1999d.streamlock.net/8066/8066/playlist.m3u8",
-				"imageUri": "images/canal2.png",
-				"isLive": true
-			},
-			{
-				"name": "CNC Tuluá",
-				"uri": "https://5c21f7ec1999d.streamlock.net/8152/8152/playlist.m3u8",
-				"imageUri": "images/cnctulua.jpeg",
-				"isLive": true
-			}
-		]
-	},
-	{
-		"name": "Test",
-		"samples": [
-			{
-					"name": "HLS Test Stream",
-					"uri": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-					"imageUri": "images/test.png",
-					"isLive": true
-			},
-			{
-					"name": "Washing Hands Test",
-					"uri": "https://d1ysu0st29v2i4.cloudfront.net/330c8778-3ea9-4b29-9694-9f82572c9b60/hls/Hand+Washing+-+34091.m3u8",
-					"imageUri": "images/test.png",
-					"isLive": true
-			},
-			{
-				"name": "JW Player Test Stream",
-				"uri": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": false
-			},
-			{
-				"name": "Apple TS media playlist",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": false
-			},
-			{
-				"name": "Apple AAC media playlist",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": false
-			}
-		]
-	},
-	{
-		"name": "Apple Example Streams",
-		"samples": [
-			{
-				"name": "Adv (TS)",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "Basic 4x3",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "Basic 16x9",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			}
-		]
-	},
-	{
-		"name": "Apple Adv(TS)",
-		"samples": [
-			{
-				"name": "480x270x30FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v1/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "480x270x30FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v2/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "640x360x30FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v3/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "768x432x30FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v4/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "960x540x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v5/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "1280x720x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v6/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "1920x1080x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v7/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "1920x1080x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v8/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			},
-			{
-				"name": "1920x1080x60FPS",
-				"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v9/prog_index.m3u8",
-				"imageUri": "images/test.png",
-				"isLive": true
-			}
-		]
-	}
+	"name": "Colombia",
+	"samples": [
+		{
+			"name": "RCN",
+			"uri": "https://rcnhd.cdn.net.co/live01/rcnhd.m3u8",
+			"imageUri": "images/rcn.png",
+			"isLive": true
+		},
+		{
+			"name": "Canal Uno",
+			"uri": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
+			"imageUri": "images/canaluno.png",
+			"isLive": true
+		},
+		{
+			"name": "Canal Capital",
+			"uri": "https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8",
+			"imageUri": "images/canalcapital.png",
+			"isLive": true
+		},
+		{
+			"name": "Red+",
+			"uri": "http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8",
+			"imageUri": "images/red+.png",
+			"isLive": true
+		},
+		{
+			"name": "Señal Colombia",
+			"uri": "https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/024/playlist.m3u8",
+			"imageUri": "images/señalcolombia.png",
+			"isLive": true
+		},
+		{
+			"name": "Canal Institucional",
+			"uri": "https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/023/playlist.m3u8",
+			"imageUri": "images/canalinstitucional.png",
+			"isLive": true
+		},
+		{
+			"name": "NTN24",
+			"uri": "https://rcnhd.cdn.net.co/live04/ntn24.m3u8",
+			"imageUri": "images/ntn24.png",
+			"isLive": true
+		},
+		{
+			"name": "Zoom TV",
+			"uri": "https://www.dailymotion.com/cdn/live/video/x7h3q6b.m3u8?sec=4uehLf_M9Ze89sicGpUPQL_ath8r-QMwSu12hCi-TGLD7vJHMlA0ejw6QPNy1E162Ev8ZXVczAauhxX76k8fYw",
+			"imageUri": "images/zoom.png",
+			"isLive": true
+		},
+		{
+			"name": "Telepacífico",
+			"uri": "https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
+			"imageUri": "images/telepacifico.png",
+			"isLive": true
+		},
+		{
+			"name": "Teleislas",
+			"uri": "https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w2120995857.m3u8",
+			"imageUri": "images/teleislas.png",
+			"isLive": true
+		},
+		{
+			"name": "Teleamiga",
+			"uri": "https://player-api.new.livestream.com/accounts/18971084/events/6841479/broadcasts/202198676.secure.m3u8",
+			"imageUri": "images/teleamiga.png",
+			"isLive": true
+		},
+		{
+			"name": "Cosmovision",
+			"uri": "https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8",
+			"imageUri": "images/cosmovision.png",
+			"isLive": true
+		},
+		{
+			"name": "CaliTV",
+			"uri": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8",
+			"imageUri": "images/calitv.png",
+			"isLive": true
+		},
+		{
+			"name": "Canal 2",
+			"uri": "https://5c21f7ec1999d.streamlock.net/8066/8066/playlist.m3u8",
+			"imageUri": "images/canal2.png",
+			"isLive": true
+		},
+		{
+			"name": "CNC Tuluá",
+			"uri": "https://5c21f7ec1999d.streamlock.net/8152/8152/playlist.m3u8",
+			"imageUri": "images/cnctulua.jpeg",
+			"isLive": true
+		}
+	]
+},
+{
+	"name": "Test",
+	"samples": [
+		{
+			"name": "Live 1 Stream",
+			"uri": "https://b028.wpc.azureedge.net/80B028/Samples/a38e6323-95e9-4f1f-9b38-75eba91704e4/5f2ce531-d508-49fb-8152-647eba422aec.ism/Manifest(format=m3u8-aapl)",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "Live 2 Stream",
+			"uri": "https://b028.wpc.azureedge.net/80B028/SampleStream/595d6b9a-d98e-4381-86a3-cb93664479c2/b722b983-af65-4bb3-950a-18dded2b7c9b.ism/Manifest(format=m3u8-aapl)",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "Live 3 Stream",
+			"uri": "https://b028.wpc.azureedge.net/80B028/Samples/0e8848ca-1db7-41a3-8867-fe911144c045/d34d8807-5597-47a1-8408-52ec5fc99027.ism/Manifest(format=m3u8-aapl)",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "Live 4 Stream",
+			"uri": "https://b028.wpc.azureedge.net/80B028/Samples/859b335f-eebc-4ff1-ac03-98e9b614e2c1/0cc164eb-193e-48cb-bc6b-041cc28307e4.ism/Manifest(format=m3u8-aapl)",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "Live 5 Stream",
+			"uri": "https://samplestreamseu.streaming.mediaservices.windows.net/056163f2-b8ed-4023-abef-753dbe9b3638/7d55569c-54e0-4954-8bea-7dbe19f039f5.ism/Manifest(format=m3u8-aapl)",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "HLS Test Stream",
+			"uri": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "Washing Hands Test",
+			"uri": "https://d1ysu0st29v2i4.cloudfront.net/330c8778-3ea9-4b29-9694-9f82572c9b60/hls/Hand+Washing+-+34091.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "JW Player Test Stream",
+			"uri": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": false
+		},
+		{
+			"name": "Animation Stream",
+			"uri": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": false
+		},
+		{
+			"name": "Trees Stream",
+			"uri": "https://cdn.flowplayer.com/ee6c914d-25d5-4703-935e-c8797b2275a8/hls/0dddba7f-200b-4baa-ac99-1e04de92a87f/playlist.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": false
+		},
+		{
+			"name": "Apple TS media playlist",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": false
+		},
+		{
+			"name": "Apple AAC media playlist",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": false
+		}
+	]
+},
+{
+	"name": "Apple Example Streams",
+	"samples": [
+		{
+			"name": "Adv (TS)",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "Basic 4x3",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "Basic 16x9",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		}
+	]
+},
+{
+	"name": "Apple Adv(TS)",
+	"samples": [
+		{
+			"name": "480x270x30FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v1/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "480x270x30FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v2/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "640x360x30FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v3/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "768x432x30FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v4/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "960x540x60FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v5/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "1280x720x60FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v6/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "1920x1080x60FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v7/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "1920x1080x60FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v8/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		},
+		{
+			"name": "1920x1080x60FPS",
+			"uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v9/prog_index.m3u8",
+			"imageUri": "images/test.png",
+			"isLive": true
+		}
+	]
+}
 ]
